@@ -1,0 +1,14 @@
+﻿Branch,CGPA,Salary,Placed,Age
+CSE,9.5,30,Yes,21
+ECE,9,25,Yes,
+Mech,8.7,20,Yes,
+Civil,8.5,15,Yes,
+CSE,9,28,Yes,19
+ECE,8.5,10,Yes,
+Mech,,7,Yes,
+Civil,7.5,,No,
+CSE,8.5,15,,
+ECE,8,,Yes,16
+Mech,,,Yes,
+Civil,6.8,1,No,
+Aero,,,,
